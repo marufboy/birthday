@@ -1,0 +1,26 @@
+{
+  "name": "birthday",
+  "version": "1.0.0",
+  "description": "Birthday greetings..",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server-node": "http-server -p 8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayusharma/birthday.git"
+  },
+  "keywords": [
+    "Birthday"
+  ],
+  "author": "Makruf24",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makrufboy/birthday/issues"
+  },
+  "homepage": "https://github.com/makrufboy/birthday#readme",
+  "dependencies": {
+    "http-server": "^0.9.0"
+  }
+}
