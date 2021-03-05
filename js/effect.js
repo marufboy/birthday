@@ -215,8 +215,7 @@ $("document").ready(function() {
     $("#open").fadeIn("slow")
   });
   $("#open").click(function() {
-    $(this).fadeOut("slow");
-    var win = window.open("https://www.youtube.com/", '_blank');
+    var win = window.open("https://meet.google.com/bvr-gsrf-bkn", '_blank');
     win.focus();
   });
 
