@@ -969,6 +969,7 @@ audio {
 
 .bannar {
 	max-width: 100%;
+	height: 180px;
 	-webkit-transform:translate(0px,-500px);
 	-moz-transform:translate(0px,-500px);
 	-o-transform:translate(0px,-500px);
